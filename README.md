@@ -14,7 +14,7 @@ This project demonstrates the application of Advanced Predictive Analytics and D
 ## 🛠️ Skills
 * **Tools:** `SQL`, `Python` (Pandas), `Power BI`, `Microsoft Office`
 * **Language:** `English (Ielts 6.0)`
-* **Others:** `Edit Video & Image`
+* **Others:** `Canva`, `Photoshop`, `Capcut`, `Adobe Premiere`
 
 ## 🎓 Education & Certifications
 
