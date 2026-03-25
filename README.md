@@ -23,5 +23,5 @@ This project demonstrates the application of Advanced Predictive Analytics and D
 ## 🤝 Let's Connect
 
 * 💌 **Email:** [ducanhforworkvps200320@gmail.com](mailto:ducanhforworkvps200320@gmail.com)
-* ☎️ **Zalo/Phone:** [(+84)824547266](phoneto:(+84)824547266)
+* ☎️ **Zalo/Phone:** [(+84)824547266](tel:(+84)824547266)
 * 📂 **Portfolio:** [My GitHub Projects](https://github.com/Ducanh200320)
